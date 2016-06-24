@@ -16,4 +16,4 @@ to do:
 
 3)geolocation show ur location in lat and long should be shown in address.php(html5)
 
-4)next task is dynamic mapping
+
